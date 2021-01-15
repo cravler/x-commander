@@ -1,0 +1,34 @@
+{
+  "name": "x-commander",
+  "type": "commonjs",
+  "description": "the complete solution for node.js command-line programs",
+  "author": "Sergei Vizel <sergei.vizel@gmail.com> (https://github.com/cravler)",
+  "homepage": "https://github.com/cravler/x-commander",
+  "keywords": [
+    "commander",
+    "command",
+    "option",
+    "parser",
+    "cli",
+    "argument",
+    "args",
+    "argv"
+  ],
+  "license": "MIT",
+  "version": "0.3.0",
+  "main": "index",
+  "files": [
+    "index.js",
+    "package.js"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+  "dependencies": {
+    "commander": "^7.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
